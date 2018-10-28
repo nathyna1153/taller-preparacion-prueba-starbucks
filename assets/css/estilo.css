@@ -1,0 +1,61 @@
+body{
+
+
+}
+.navbar-logo{
+	width: 90px;
+}
+.navbar-default{
+	border-top:7px solid green;
+}
+.navbar-right{
+	margin-top: 36px;
+}
+.seccion{
+	background-size: cover;
+	height: 400px;
+	margin-bottom: 10px;
+	position: relative;
+	text-align: center;
+	margin-top: 
+}
+.reserve{
+	background-image: url(../images/banner1.jpg);
+}
+.rewards{
+	background-image: url(../images/stars2.png);
+}
+.cafe{
+	background-image: url(../images/beans.png);
+}
+.block{
+	color: white;
+	background-color: rgba(0,0,0,0.5);
+	border-radius: 12%;
+    height: 300px; 
+    position: relative;
+    display: inline-block;
+    padding: 63px 20px;
+    margin-top: 50px;
+
+
+}
+.footer{
+	height: 150px;
+	text-align: center;
+}
+.footer-logo{
+	width: 40px;
+}
+.block--right{
+	float: right;
+}
+.btn-default{
+	margin-top: 20px;
+}
+.final{
+	padding-top: 10px;
+}
+footer{
+	border-bottom:12px solid #6d6c6c;
+}
